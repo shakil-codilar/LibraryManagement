@@ -1,0 +1,30 @@
+.alertNotification{
+    color: red;
+}
+
+.form{
+    text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+.Separate{
+    font-size: 15pt;
+    margin-top: 3pt;
+}
+
+.button{
+    margin-top: 5pt;
+}
+
+.AddButton{
+    margin-top: 10pt;
+}
+
+.AddClick{
+    font-size: 12pt;
+    padding: 0 12pt 0 12pt;
+    margin-left: 20pt;
+}

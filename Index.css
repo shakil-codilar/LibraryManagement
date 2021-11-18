@@ -1,0 +1,48 @@
+.image{
+    width : 100pt;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 0.2px solid black;
+    margin-top: 40pt;
+}
+th,
+td {
+    text-align: left;
+    padding: 8px;
+    border: 0.1px solid black;
+}
+a {
+    background-color: rgb(141, 136, 136);
+    color: white;
+    padding: 0.6em 1.1em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover{
+    background-color: darkseagreen;
+}
+
+.anchor {
+    position: absolute;
+    right: 7pt;
+    margin-top: 10pt;
+}
+
+
+.display{
+    display: flex;
+}
+
+.RowData{
+    font-size: 16pt;
+}
+
+.heading{
+    color: #0f3273;
+    position: absolute;
+    top: 0;
+    right:600pt;
+}
